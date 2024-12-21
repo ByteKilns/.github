@@ -1,7 +1,7 @@
 # ByteKilns 🚀🔥
 
 Welcome to **ByteKilns**, the ultimate melting pot of crazy, cool, and cutting-edge projects! This organization is where client dreams meet personal experiments, and the sparks of innovation fly. All our repositories are private, but that doesn’t mean we’re any less awesome!  
-![ByteKilns GIF](https://media.giphy.com/media/3o6Zt5Fjf04Sy1rdjK/giphy.gif)
+![ByteKilns GIF](https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif)
 
 ## Our Vibe 😎
 
@@ -10,7 +10,7 @@ We’re all about:
 - **Quality:** Making stuff that works—and works *well*.
 - **Creativity:** Turning wild ideas into even wilder realities.  
 - **Teamwork:** Because two (or more) brains are better than one.  
-  ![Teamwork GIF](https://media.giphy.com/media/l0NwN3Vz2kQsFv5Di/giphy.gif)
+  ![Teamwork GIF](https://media.giphy.com/media/2tfl14ntYo4JxRjD5X/giphy.gif)
 
 ## The Projects 🛠️
 
@@ -19,7 +19,7 @@ ByteKilns is home to:
 - **Client Stuff:** Serious business, tailored to perfection.
 - **Personal Shenanigans:** Side hustles and just-for-fun experiments.
 - **Secret Sauce:** The projects we can’t talk about (but trust us, they’re 🔥).  
-  ![Secret Sauce GIF](https://media.giphy.com/media/d2jjuD9K1z0I5tA4w/giphy.gif)
+  ![Secret Sauce GIF](https://media.giphy.com/media/3o6ozhJGJxgq9HeU0Y/giphy.gif)
 
 ### Our Stack of Awesomeness 🥞
 
@@ -42,7 +42,7 @@ Here’s what we usually cook with:
 
 #### DevOps ⚙️
 - **Docker**: Containers all the way down.  
-  ![Docker GIF](https://media.giphy.com/media/3o6Zt5Fjf04Sy1rdjK/giphy.gif)
+  ![Docker GIF](https://media.giphy.com/media/26Ff3cL9zYH3N9u9q/giphy.gif)
 
 #### Extra Cool Stuff 🌟
 - **Node.js**: JavaScript everywhere.
@@ -54,7 +54,7 @@ Okay, here’s the deal—our repos are private, so only insiders get the keys t
 
 1. **Poke Around:** Check out our private repos.
 2. **Pitch Ideas:** Got a crazy thought? We wanna hear it.  
-   ![Pitch Ideas GIF](https://media.giphy.com/media/3oEjHFi3rqfi6ff11y/giphy.gif)
+   ![Pitch Ideas GIF](https://media.giphy.com/media/3o6ozhJGJxgq9HeU0Y/giphy.gif)
 3. **Push Code:** Fork it, fix it, and PR it.
 
 ## Hit Us Up 📬
